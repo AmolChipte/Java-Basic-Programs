@@ -1,4 +1,4 @@
-Diamond : 
+**Diamond** :
         *
       *   *
     *   *   *
@@ -7,39 +7,39 @@ Diamond :
       *   *
         *
 
-emptysquarebox :
+**emptysquarebox** :
 *  *  *  *  *
 *           *
 *           *
 *           *
 *  *  *  *  *  
 
-filledsquarebox :
+**filledsquarebox** :
 *  *  *  *  * 
 *  *  *  *  *
 *  *  *  *  *
 *  *  *  *  *
 *  *  *  *  *
 
-left right-angle triangle :
+**left right-angle triangle** :
 *
 *  *
 *  *  *
 *  *  *  *
 
-inverted left right-angle triangle :
+**inverted left right-angle triangle** :
 *  *  *  *
 *  *  *
 *  *
 *
 
-right right-angle triangle :
+**right right-angle triangle** :
          *
       *  *
    *  *  *
 *  *  *  *
 
-triangle :
+**triangle** :
          *
       *  *  *
    *  *  *  *  *
